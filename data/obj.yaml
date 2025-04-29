@@ -1,9 +1,0 @@
-path: C:\Users\Admin\Desktop\LR7\data
-train: train.txt
-val: train.txt
-names:
-  0: I
-  1: Nikita
-  2: Evgenyi
-  3: Ivan
-  4: Others
